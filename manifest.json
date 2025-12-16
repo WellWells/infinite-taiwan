@@ -1,0 +1,44 @@
+{
+    "id": "infinite-taiwan",
+    "name": "無限臺灣",
+    "short_name": "無限臺灣",
+    "description": "創造、合成、發現臺灣！結合元素，探索臺灣文化的無限可能。",
+    "lang": "zh-TW",
+    "start_url": "/infinite-taiwan/",
+    "scope": "/infinite-taiwan/",
+    "display": "standalone",
+    "orientation": "portrait",
+    "background_color": "#1a1a2e",
+    "theme_color": "#1a1a2e",
+    "categories": [
+        "games",
+        "entertainment",
+        "education"
+    ],
+    "icons": [
+        {
+            "src": "/infinite-taiwan/icons/icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "/infinite-taiwan/icons/icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "/infinite-taiwan/icons/icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "/infinite-taiwan/icons/icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}

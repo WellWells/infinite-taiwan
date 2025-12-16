@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_圖層_1" data-name="圖層_1" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1024 1024">
+  <!-- Generator: Adobe Illustrator 30.0.0, SVG Export Plug-In . SVG Version: 2.1.1 Build 123)  -->
+  <defs>
+    <clipPath id="clippath">
+      <path d="M426.126,211.146c96.362-7.971,146.137,14.368,133.161,80.428,41.607-54.413,67.734-123.216-52.443-154.005-24.465,21.716-56.106,51.862-80.718,73.577" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="183.37" y1="896.747" x2="204.632" y2="896.747" gradientTransform="translate(8862.93 -5807.733) rotate(-138) scale(11.211 -11.211)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#c94f1b"/>
+      <stop offset=".41" stop-color="#fab900"/>
+      <stop offset="1" stop-color="#faba00"/>
+    </linearGradient>
+    <clipPath id="clippath-1">
+      <path d="M205.893,479.065c-55.266,154.235,289.471-20.863,352.397-181.553-144.154,139.638-305.134,203.209-352.397,181.553" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient1" x1="207.91" y1="889.957" x2="229.176" y2="889.957" gradientTransform="translate(-3501.921 16285.849) scale(17.776 -17.776)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ab4419"/>
+      <stop offset=".116" stop-color="#c9720f"/>
+      <stop offset=".28" stop-color="#faba00"/>
+      <stop offset=".743" stop-color="#eda700"/>
+      <stop offset=".78" stop-color="#eca600"/>
+      <stop offset=".916" stop-color="#c16610"/>
+      <stop offset="1" stop-color="#ab4419"/>
+    </linearGradient>
+    <clipPath id="clippath-2">
+      <path d="M643.098,260.162c-163.699,7.536-456.886,131.23-437.205,219.048,50.261-80.302,526.655-256.271,516.67-101.354,54.227-80.491,20.646-113.935-50.047-117.694h-29.418Z" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient2" x1="194.938" y1="915.014" x2="216.201" y2="915.014" gradientTransform="translate(5743.118 -23083.805) rotate(-180) scale(25.611 -25.611)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#9f0038"/>
+      <stop offset=".25" stop-color="#e00078"/>
+      <stop offset="1" stop-color="#e2007a"/>
+    </linearGradient>
+    <clipPath id="clippath-3">
+      <path d="M441.427,479.379c-103.534,134.073,246.352,84.101,280.159-98.075-36.633,63.09-256.856,188.468-280.159,98.075" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient3" x1="223.574" y1="883.602" x2="244.834" y2="883.602" gradientTransform="translate(-2725.16 12934.519) scale(14.075 -14.075)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8c052b"/>
+      <stop offset=".076" stop-color="#a60343"/>
+      <stop offset=".25" stop-color="#e00078"/>
+      <stop offset="1" stop-color="#e2007a"/>
+    </linearGradient>
+    <clipPath id="clippath-4">
+      <path d="M442.258,477.718c162.29-99.695,227.882-38.262,122.52,95.149,147.34-117.902,106.337-188.159,29.522-188.159-49.379,0-113.562,29.004-152.042,93.01" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient4" x1="165.131" y1="915.317" x2="186.389" y2="915.317" gradientTransform="translate(7673.914 -6438.761) rotate(-145) scale(10.635 -10.635)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#00483f"/>
+      <stop offset=".046" stop-color="#0a5146"/>
+      <stop offset=".125" stop-color="#25695a"/>
+      <stop offset=".227" stop-color="#51927c"/>
+      <stop offset=".34" stop-color="#8bc6a7"/>
+      <stop offset="1" stop-color="#8dc9ab"/>
+    </linearGradient>
+    <clipPath id="clippath-5">
+      <path d="M224.204,808.275c-72.415,198.142,254.344-18.084,343.056-230.819-93.373,91.988-317.591,291.273-343.056,230.819" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient5" x1="212.063" y1="872.933" x2="233.321" y2="872.933" gradientTransform="translate(-15080.92 -3125.924) rotate(89.999) scale(17.688 -17.688)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#00483f"/>
+      <stop offset=".046" stop-color="#0a5146"/>
+      <stop offset=".125" stop-color="#25695a"/>
+      <stop offset=".227" stop-color="#51927c"/>
+      <stop offset=".34" stop-color="#8bc6a7"/>
+      <stop offset=".66" stop-color="#8bc8aa"/>
+      <stop offset=".68" stop-color="#80bea1"/>
+      <stop offset=".788" stop-color="#498b77"/>
+      <stop offset=".881" stop-color="#216658"/>
+      <stop offset=".955" stop-color="#095045"/>
+      <stop offset="1" stop-color="#00483f"/>
+    </linearGradient>
+    <clipPath id="clippath-6">
+      <path d="M224.349,807.775c58.443-133.056,613.415-360.906,530.019-61.931,131.377-145.967,59.2-205.407-68.865-205.407-176.301,0-458.537,112.71-461.154,267.337" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient6" x1="185.895" y1="914.076" x2="207.148" y2="914.076" gradientTransform="translate(20838.7 -16933.441) rotate(-143) scale(28.697 -28.697)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#003f7d"/>
+      <stop offset=".306" stop-color="#007dc0"/>
+      <stop offset=".36" stop-color="#0089cd"/>
+      <stop offset=".78" stop-color="#008bd0"/>
+      <stop offset=".869" stop-color="#006bad"/>
+      <stop offset="1" stop-color="#003f7d"/>
+    </linearGradient>
+    <clipPath id="clippath-7">
+      <path d="M754.192,746.367c-45.084,55.014-253.348,141.588-238.679-14.163-137.013,128.49,137.655,247.41,238.679,14.163" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient7" x1="228.533" y1="855.282" x2="249.796" y2="855.282" gradientTransform="translate(-2492.201 11969.022) scale(12.994 -12.994)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#003f7d"/>
+      <stop offset=".204" stop-color="#007dc0"/>
+      <stop offset=".24" stop-color="#0089cd"/>
+      <stop offset="1" stop-color="#008bd0"/>
+    </linearGradient>
+    <clipPath id="clippath-8">
+      <path d="M515.667,731.873c50.275-41.044,110.212-16.896,110.699,41.895l63.091-40.067c-9.58-40.255-41.791-65.086-78.632-65.086-32.167,0-67.93,18.999-95.159,63.258" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient8" x1="119.647" y1="918.188" x2="140.908" y2="918.188" gradientTransform="translate(6677.455 -2775.017) rotate(-128) scale(7.558 -7.558)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#003f7d"/>
+      <stop offset=".15" stop-color="#00407e"/>
+      <stop offset=".299" stop-color="#006bad"/>
+      <stop offset=".39" stop-color="#0089cd"/>
+      <stop offset="1" stop-color="#008bd0"/>
+    </linearGradient>
+  </defs>
+  <g clip-path="url(#clippath)">
+    <polygon points="537.074 391.456 349.55 222.608 516.074 37.667 703.586 206.517 537.074 391.456" fill="url(#linear-gradient)"/>
+  </g>
+  <g clip-path="url(#clippath-1)">
+    <rect x="139.413" y="283.699" width="430.092" height="363.414" transform="translate(-31.578 25.839) rotate(-3.997)" fill="url(#linear-gradient1)"/>
+  </g>
+  <g clip-path="url(#clippath-2)">
+    <rect x="186.212" y="222.939" width="590.578" height="256.271" fill="url(#linear-gradient2)"/>
+  </g>
+  <g clip-path="url(#clippath-3)">
+    <rect x="337.893" y="381.304" width="383.693" height="232.148" fill="url(#linear-gradient3)"/>
+  </g>
+  <g clip-path="url(#clippath-4)">
+    <polygon points="623.345 699.653 350.711 508.776 531.04 251.215 803.664 442.132 623.345 699.653" fill="url(#linear-gradient4)"/>
+  </g>
+  <g clip-path="url(#clippath-5)">
+    <rect x="127.761" y="566.286" width="463.528" height="451.279" transform="translate(-460.728 1081.043) rotate(-84.999)" fill="url(#linear-gradient5)"/>
+  </g>
+  <g clip-path="url(#clippath-6)">
+    <polygon points="646.202 1125.668 50.881 677.063 463.901 128.974 1059.213 577.578 646.202 1125.668" fill="url(#linear-gradient6)"/>
+  </g>
+  <g clip-path="url(#clippath-7)">
+    <rect x="378.5" y="732.204" width="375.692" height="247.41" fill="url(#linear-gradient7)"/>
+  </g>
+  <g clip-path="url(#clippath-8)">
+    <polygon points="581.542 858.102 464.647 708.475 623.582 584.305 740.479 733.908 581.542 858.102" fill="url(#linear-gradient8)"/>
+  </g>
+</svg>
